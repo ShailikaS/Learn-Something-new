@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.Pdfsearchbar{
+  margin-left: 20px;
+  height: 37px;
+  border: none;
+  width: 334px;
+  font-size:16px;
+  outline: none;
+}
+
+.pdflist{
+  margin-left: 34%;
+}
+
+.Pdfbar{
+  margin-top:2%;
+  margin-left: 34%;
+  width: 376px;
+  border-radius:30px;
+  border:1px solid #AFC838;
+}
+
+.Pdfbar:hover{
+box-shadow: 1px 1px 8px 1px #AFC838;
+}
+.Pdfbar:focus-within{
+box-shadow: 1px 1px 8px 1px #AFC838;
+outline:none;
+}
